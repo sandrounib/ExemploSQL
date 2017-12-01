@@ -1,0 +1,10 @@
+c:\Users\08929532845\Desktop\backend\ExemploSql\bin\Debug\netcoreapp2.0\ExemploSql.deps.json
+c:\Users\08929532845\Desktop\backend\ExemploSql\bin\Debug\netcoreapp2.0\ExemploSql.runtimeconfig.json
+c:\Users\08929532845\Desktop\backend\ExemploSql\bin\Debug\netcoreapp2.0\ExemploSql.runtimeconfig.dev.json
+c:\Users\08929532845\Desktop\backend\ExemploSql\bin\Debug\netcoreapp2.0\ExemploSql.dll
+c:\Users\08929532845\Desktop\backend\ExemploSql\bin\Debug\netcoreapp2.0\ExemploSql.pdb
+c:\Users\08929532845\Desktop\backend\ExemploSql\obj\Debug\netcoreapp2.0\ExemploSql.csproj.CoreCompileInputs.cache
+c:\Users\08929532845\Desktop\backend\ExemploSql\obj\Debug\netcoreapp2.0\ExemploSql.AssemblyInfoInputs.cache
+c:\Users\08929532845\Desktop\backend\ExemploSql\obj\Debug\netcoreapp2.0\ExemploSql.AssemblyInfo.cs
+c:\Users\08929532845\Desktop\backend\ExemploSql\obj\Debug\netcoreapp2.0\ExemploSql.dll
+c:\Users\08929532845\Desktop\backend\ExemploSql\obj\Debug\netcoreapp2.0\ExemploSql.pdb
